@@ -1,14 +1,13 @@
-body{
+
 	#wrapper{
 		margin-left: auto;
-		margin-right:auto;
+		margin-right: auto;
 		width: 80%;
 	}
 	.paragraph{
 		background-color:#000000;
-		color#F5F5F5;
+		color: #F5F5F5;
 	}
 	#paragraph1{
 		background-color:rgba(255, 60, 48, 0.2)
 	}
-}
