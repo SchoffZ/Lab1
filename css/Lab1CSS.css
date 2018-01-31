@@ -5,8 +5,9 @@
 		background-color: #ffffff;
 	}
 body{
-	background-color: rgba(25, 25, 112, 0.8)
+	background-color: rgba(25, 25, 112, 0.8);
+	font-family: Arial, Geneva, snas-serif;
 	}
-.ListItem{
-	
+.listitem{
+	color: rgba (25, 25, 112, 0.4);
 	}
